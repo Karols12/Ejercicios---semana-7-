@@ -1,0 +1,9 @@
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Ejercicio 2 - s7\Ejercicio 2 - s7\bin\Debug\Ejercicio 2 - s7.exe.config
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Ejercicio 2 - s7\Ejercicio 2 - s7\bin\Debug\Ejercicio 2 - s7.exe
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Ejercicio 2 - s7\Ejercicio 2 - s7\bin\Debug\Ejercicio 2 - s7.pdb
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Ejercicio 2 - s7\Ejercicio 2 - s7\obj\Debug\Ejercicio_2___s7.Form1.resources
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Ejercicio 2 - s7\Ejercicio 2 - s7\obj\Debug\Ejercicio_2___s7.Properties.Resources.resources
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Ejercicio 2 - s7\Ejercicio 2 - s7\obj\Debug\Ejercicio 2 - s7.csproj.GenerateResource.cache
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Ejercicio 2 - s7\Ejercicio 2 - s7\obj\Debug\Ejercicio 2 - s7.csproj.CoreCompileInputs.cache
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Ejercicio 2 - s7\Ejercicio 2 - s7\obj\Debug\Ejercicio 2 - s7.exe
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Ejercicio 2 - s7\Ejercicio 2 - s7\obj\Debug\Ejercicio 2 - s7.pdb

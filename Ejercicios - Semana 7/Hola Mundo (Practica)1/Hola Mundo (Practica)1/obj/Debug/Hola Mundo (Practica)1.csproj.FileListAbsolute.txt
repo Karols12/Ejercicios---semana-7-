@@ -1,0 +1,10 @@
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Hola Mundo (Practica)1\Hola Mundo (Practica)1\obj\Debug\Hola Mundo (Practica)1.csproj.AssemblyReference.cache
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Hola Mundo (Practica)1\Hola Mundo (Practica)1\obj\Debug\Hola_Mundo__Practica_1.Form1.resources
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Hola Mundo (Practica)1\Hola Mundo (Practica)1\obj\Debug\Hola_Mundo__Practica_1.Properties.Resources.resources
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Hola Mundo (Practica)1\Hola Mundo (Practica)1\obj\Debug\Hola Mundo (Practica)1.csproj.GenerateResource.cache
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Hola Mundo (Practica)1\Hola Mundo (Practica)1\obj\Debug\Hola Mundo (Practica)1.csproj.CoreCompileInputs.cache
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Hola Mundo (Practica)1\Hola Mundo (Practica)1\bin\Debug\Hola Mundo (Practica)1.exe.config
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Hola Mundo (Practica)1\Hola Mundo (Practica)1\bin\Debug\Hola Mundo (Practica)1.exe
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Hola Mundo (Practica)1\Hola Mundo (Practica)1\bin\Debug\Hola Mundo (Practica)1.pdb
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Hola Mundo (Practica)1\Hola Mundo (Practica)1\obj\Debug\Hola Mundo (Practica)1.exe
+C:\Users\50375\Desktop\Ejercicios - Semana 7\Hola Mundo (Practica)1\Hola Mundo (Practica)1\obj\Debug\Hola Mundo (Practica)1.pdb
